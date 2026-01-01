@@ -1,7 +1,8 @@
 # React + Vite
 
 Install dependencies dan jalankan project:
-npm install  
+```bash
+npm install
 npm run dev
 
 Akses aplikasi di:
